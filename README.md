@@ -767,3 +767,7 @@ ipv6 unicast-routing
 # Python
 
 [Ejemplo python](./python/README.md)
+
+# Notion de Elito
+
+https://elito-sanz.notion.site/Redes-de-Computadoras-1c9a0b92751c8065be76cc43c332abdd
